@@ -1,4 +1,4 @@
-# Image-Recognition-with-Convulitional-Neural-Network
+# Image-Recognition-with-Convolotional-Neural-Network
 This exercise present the pratice of image recognition using Convolutional Neural Network (CNN) to classify the invasive and noninvasive plant
 
 # Data
